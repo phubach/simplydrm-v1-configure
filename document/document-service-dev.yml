@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/simplydrm-v1-document
+    username: postgres
+    password: root

@@ -1,0 +1,4 @@
+# Global defaults shared by all services (optionally)
+logging:
+  level:
+    root: INFO
